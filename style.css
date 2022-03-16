@@ -1,0 +1,9 @@
+
+    #brella{
+        top:-75px    
+    }
+@media (max-width: 767px) {
+    #brella{
+        top:-150px    
+    }
+}
